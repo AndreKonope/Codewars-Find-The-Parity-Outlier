@@ -1,3 +1,5 @@
+// Looping a triangle of hashes
+
 for (let i = '#'; i.length < 6; i += '#'){
 console.log(i);
 }
